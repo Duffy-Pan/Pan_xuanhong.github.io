@@ -1,20 +1,16 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I obtained my Bachelor's degree in Computer Science and Technology from China University of Geosciences (Beijing) in June 2025, and I am currently pursuing a Master's degree at Wuhan University.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### Email
+<code>xuanhong_Pan@whu.edu.cn</code>
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+#### Education
+**Wuhan University**, Master of CS (2025 – 2028)
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
-#### Research Interests  
-XX, XX, XX, XX.
+**China University of Geosciences (Beijing)**, Honours Bachelor of CS (2021 – 2025)  
+• GPA: 3.86/4 (top 1.3%)
+
+#### Research Interests
+Natural Language Processing/Large Language Model
